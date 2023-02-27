@@ -1,0 +1,23 @@
+{
+  "name": "ld-wrapper-concepts",
+  "version": "1.0.0",
+  "description": "Some concepts/ideas/sketches for LD SDK client wrapper patterns. Not production ready.",
+  "main": "namespace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbzona/ld-wrapper-concepts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbzona/ld-wrapper-concepts/issues"
+  },
+  "homepage": "https://github.com/pbzona/ld-wrapper-concepts#readme",
+  "dependencies": {
+    "launchdarkly-node-server-sdk": "^7.0.1"
+  }
+}
